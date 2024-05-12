@@ -25,6 +25,7 @@ Stanno facendo casini e troppi soldi.
 Devi scacciare un halfling nello specifico: Dolly, che è a capo della taverna del dente saltato.
 Ha fatto patti loschi con gente che non va a genio a Vino."
 - Ho di nuovo tutto e mi dirigo verso la taverna.
+
 Botte con accolito:
 - Non ho la spada corta (persa per terra)
 - Ho di nuovo la spada
